@@ -4,3 +4,4 @@ pyvis
 pandas
 requests
 plotly
+scipy
